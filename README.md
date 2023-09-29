@@ -55,6 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Happy movie browsing! 🎬✨
-```
 
-Please note that you need to replace `"your-username"` with your actual GitHub username in the clone URL. Also, remember to obtain and use a valid API key from the Movie API provider.
