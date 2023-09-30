@@ -1,6 +1,6 @@
 # Movie Details Website
 
-Welcome to our Movie Details Website! This website provides you with comprehensive information about various movies, including their details, ratings, and reviews. Built using React and SCSS, this website fetches data from a Movie API to ensure you get the latest and most accurate information.
+Welcome to my Movie Details Website! This website provides you with comprehensive information about various movies, including their details, ratings, and reviews. Built using React and SCSS, this website fetches data from a Movie API to ensure you get the latest and most accurate information.
 
 ## Features
 
